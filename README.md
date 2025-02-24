@@ -28,26 +28,6 @@ Python 3.9+ (Sanic için)
 
 PostgreSQL 13+
 
-Adımlar
-
-Depoyu klonlayın:
-
-git clone https://github.com/kullanici/web-project.git
-cd web-project
-
-Frontend Kurulumu:
-
-cd frontend
-npm install
-npm start
-
-Backend Kurulumu:
-
-cd backend
-python -m venv venv
-source venv/bin/activate  # (Windows için: venv\Scripts\activate)
-pip install -r requirements.txt
-python app.py
 
 Kullanım
 
