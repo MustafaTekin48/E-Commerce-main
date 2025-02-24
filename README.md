@@ -1,4 +1,4 @@
-Web Project - E-Market
+Web Project - E-Commerce-main
 
 Proje Açıklaması
 
@@ -18,7 +18,6 @@ Paket Yönetimi: npm 10.8.2
 
 Diğer: JWT Authentication, RESTful API
 
-Kurulum
 
 Gereksinimler
 
